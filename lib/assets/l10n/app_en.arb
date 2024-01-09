@@ -1,0 +1,8 @@
+{
+    "login":"Login",
+    "register":"Register",
+    "email":"Email",
+    "userName":"User Name",
+    "password":"Password",
+    "googleSign":"google sign In"
+}
