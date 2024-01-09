@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533096001323",
+    "project_id": "tutoring-app---auth",
+    "storage_bucket": "tutoring-app---auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533096001323:android:ddd55ac6b9e6c5a60d1f6e",
+        "android_client_info": {
+          "package_name": "com.example.tutoringapp_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOfAqQz9lfXFqikUDSOuJnt_W2wGKAb0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
